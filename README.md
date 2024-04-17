@@ -4,7 +4,7 @@
 ## I'm Paulina, a future data analyst. 👩🏻‍💻
 
 ### About Me:
-* 💻 I'm data analyst, currently looking for a junior job.
+* 💻 I'm data analyst, currently looking for a new job.
 * 🔝 I'm finishing my Data Analytics studies at Turing's College, where only 10% of applicants are admitted.
 * 👩‍🎓 I have a Bachelor's degree in Quantitative Economics.
 * 🏊‍♀️ Water is my happy place.
