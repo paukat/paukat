@@ -21,5 +21,5 @@
 
 <br>
 
-In case you have a job offer, let's connect via [LinkedIn](www.linkedin.com/in/paulina-katkauskaite).
+In case you have a job offer, let's connect via [LinkedIn](https://www.linkedin.com/in/paulina-katkauskaite/).
 
