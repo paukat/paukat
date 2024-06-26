@@ -5,7 +5,7 @@
 
 ### About Me:
 * 💻 I'm data analyst, currently looking for a new job.
-* 🔝 I'm finishing my Data Analytics studies at Turing's College, where only 10% of applicants are admitted.
+* 🔝 I've finished Data Analytics studies at Turing's College, where only 10% of applicants are admitted.
 * 👩‍🎓 I have a Bachelor's degree in Quantitative Economics.
 * 🏊‍♀️ Water is my happy place.
 * ⚖️ I'm seeking a balance between life and work.
